@@ -5,7 +5,7 @@ I am an Information Systems professional who bridges the gap between **Software 
 
 ---
 
-## 🛠️ Technical Skill Matrix
+## Technical Skill Matrix
 
 | **Business Intelligence** | **Software Engineering** | **Data Science & Analytics** |
 | :--- | :--- | :--- |
@@ -15,7 +15,7 @@ I am an Information Systems professional who bridges the gap between **Software 
 
 ---
 
-## 📊 Business Intelligence & Data Warehousing
+## Business Intelligence & Data Warehousing
 ### [Case Study: Northwind Sales Analysis](https://github.com/gmuslih/Northwind-Data-Warehouse)
 In this project, I transformed a normalized relational database into a high-performance **Sales Data Mart** using the Kimball methodology.
 
@@ -26,7 +26,7 @@ In this project, I transformed a normalized relational database into a high-perf
 
 ---
 
-## 🔍 Data Mining & Quality Engineering
+## Data Mining & Quality Engineering
 **"80% of data science is data cleaning."** I focus heavily on ensuring data integrity before performing predictive analysis.
 
 | **Data Quality & Wrangling** | **Advanced Analytics** |
@@ -36,7 +36,7 @@ In this project, I transformed a normalized relational database into a high-perf
 
 ---
 
-## 🎨 Professional Visualization Gallery (Tableau)
+## Professional Visualization Gallery (Tableau)
 I transform complex datasets into visual stories that drive executive decision-making.
 
 <p align="center">
@@ -45,7 +45,7 @@ I transform complex datasets into visual stories that drive executive decision-m
 
 ---
 
-## 💻 Information Systems & App Development
+## Information Systems & App Development
 I build the "Data Sources"—the mobile and web applications that feed the BI pipeline.
 
 | **[DishDash Web App](https://github.com/gmuslih/DishDash)** | **[Receipt Management App](https://github.com/gmuslih/Final-Year-Project)** |
@@ -55,7 +55,7 @@ I build the "Data Sources"—the mobile and web applications that feed the BI pi
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/musly/)
 - **Specialization:** Business Intelligence, Data Engineering, and Information Systems.
 
