@@ -49,7 +49,7 @@ I transform complex datasets into visual stories that drive executive decision-m
 I build the "Data Sources"—the mobile and web applications that feed the BI pipeline.
 
 | **[DishDash Web App](https://github.com/gmuslih/DishDash)** | **[Receipt Management App](https://github.com/gmuslih/Final-Year-Project)** |
-| :---: | :---: | :---: |
+| :---: | :---: |
 | **Laravel & MySQL** | **Flutter & OCR** 
 | A student-centric recipe portal built with MVC architecture. | A BI tool for personal expense tracking and analytics. |
 
