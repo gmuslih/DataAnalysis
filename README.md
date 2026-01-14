@@ -32,7 +32,7 @@ In this project, I transformed a normalized relational database into a high-perf
 | **Data Quality & Wrangling** | **Advanced Analytics** |
 |:---:|:---:|
 | <img src="images/dataquality.png" width="350"> | <img src="images/predictivemodel.png" width="350"> |
-| **Python / SSIS:** Handling null values, outlier detection, and data normalization to ensure 99% accuracy. | **Deep Dive:** Utilizing Power BI for trend forecasting and customer segmentation analysis. |
+| **Python / SSIS:** Handling null values, outlier detection, and data normalization to ensure 99% accuracy. | **Deep Dive:** Utilizing Phyton for algorithn trend forecasting and customer segmentation analysis. |
 
 ---
 
