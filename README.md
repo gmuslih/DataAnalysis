@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Muslihuddin 👋 
 ### Bachelor of IT (Business Intelligence & Information Systems) | IIUM
 
-I am a Technical BI Analyst and Developer. I specialize in building the **Information Systems** that capture data and architecting the **Data Warehouses** that turn raw noise into strategic business insights.
+I am an Information Systems professional who bridges the gap between **Software Engineering** and **Data Analytics**. I build the systems that capture data and architect the warehouses that turn raw noise into strategic business insights.
 
 ---
 
@@ -16,7 +16,7 @@ I am a Technical BI Analyst and Developer. I specialize in building the **Inform
 ---
 
 ## 📊 Business Intelligence & Data Warehousing
-### Case Study: Northwind Sales Analysis
+### [Case Study: Northwind Sales Analysis](https://github.com/gmuslih/Northwind-Data-Warehouse)
 In this project, I transformed a normalized relational database into a high-performance **Sales Data Mart** using the Kimball methodology.
 
 | **1. Data Modeling (SSMS)** | **2. Schema Architecture** | **3. Insight Delivery (Power BI)** |
@@ -45,20 +45,20 @@ I transform complex datasets into visual stories that drive executive decision-m
 
 ---
 
-## 💻 App Development & Emerging Tech
-I develop the "Data Sources"—the mobile and web applications that feed the BI pipeline.
+## 💻 Information Systems & App Development
+I build the "Data Sources"—the mobile and web applications that feed the BI pipeline.
 
-| **DishDash (Web)** | **Receipt App (Mobile)** | **Blockchain (Web3)** |
+| **[DishDash Web App](https://github.com/gmuslih/DishDashProject)** | **[Receipt Management App](https://github.com/gmuslih/Final-Year-Project)** | **Blockchain Lab** |
 | :---: | :---: | :---: |
 | <img src="images/home_page.png" width="220"> | <img src="images/dashboard_page.png" width="220"> | <img src="images/blockchain_hardhat.png" width="220"> |
 | **Laravel & MySQL** | **Flutter & OCR** | **Hardhat & Solidity** |
-| A student-centric recipe portal built with MVC architecture. | A BI tool for personal expense tracking and data visualization. | Smart contract development and automated testing. |
+| A student-centric recipe portal built with MVC architecture. | A BI tool for personal expense tracking and analytics. | Smart contract development and automated testing. |
 
 ---
 
 ## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Specialization:** Information Systems Audit, Business Intelligence, and Data Engineering.
+- **Specialization:** Business Intelligence, Data Engineering, and Information Systems.
 
 ---
 <p align="center">
