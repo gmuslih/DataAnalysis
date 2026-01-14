@@ -50,7 +50,7 @@ I build the "Data Sources"—the mobile and web applications that feed the BI pi
 
 | **[DishDash Web App](https://github.com/gmuslih/DishDash)** | **[Receipt Management App](https://github.com/gmuslih/Final-Year-Project)** |
 | :---: | :---: |
-| **Laravel & MySQL** | **Flutter & OCR** 
+| **Laravel & MySQL** | **Flutter & OCR & AI Integration** 
 | A student-centric recipe portal built with MVC architecture. | A BI tool for personal expense tracking and analytics. |
 
 ---
