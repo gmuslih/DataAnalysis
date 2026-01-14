@@ -48,19 +48,14 @@ I transform complex datasets into visual stories that drive executive decision-m
 ## 💻 Information Systems & App Development
 I build the "Data Sources"—the mobile and web applications that feed the BI pipeline.
 
-| **[DishDash Web App](https://github.com/gmuslih/DishDashProject)** | **[Receipt Management App](https://github.com/gmuslih/Final-Year-Project)** | **Blockchain Lab** |
+| **[DishDash Web App](https://github.com/gmuslih/DishDash)** | **[Receipt Management App](https://github.com/gmuslih/Final-Year-Project)** |
 | :---: | :---: | :---: |
-| <img src="images/home_page.png" width="220"> | <img src="images/dashboard_page.png" width="220"> | <img src="images/blockchain_hardhat.png" width="220"> |
-| **Laravel & MySQL** | **Flutter & OCR** | **Hardhat & Solidity** |
-| A student-centric recipe portal built with MVC architecture. | A BI tool for personal expense tracking and analytics. | Smart contract development and automated testing. |
+| **Laravel & MySQL** | **Flutter & OCR** 
+| A student-centric recipe portal built with MVC architecture. | A BI tool for personal expense tracking and analytics. |
 
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/musly/)
 - **Specialization:** Business Intelligence, Data Engineering, and Information Systems.
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmuslih&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
